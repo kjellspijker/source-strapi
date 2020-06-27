@@ -1,0 +1,26 @@
+{
+  "version": "0.1.1",
+  "name": "@kjellspijker/source-strapi",
+  "description": "Strapi source for Gridsome",
+  "homepage": "https://github.com/gridsome/gridsome/tree/master/packages/source-strapi#readme",
+  "repository": "https://github.com/gridsome/gridsome/tree/master/packages/source-strapi",
+  "main": "index.js",
+  "keywords": [
+    "gridsome",
+    "gridsome-plugin",
+    "gridsome-source",
+    "strapi"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "lodash": "^4.17.11",
+    "pluralize": "^7.0.0"
+  },
+  "gitHead": "8fd239bef57ba363b7136ae8d8463f9c4c71b215"
+}
